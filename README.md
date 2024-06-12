@@ -8,9 +8,7 @@
 - 📫 How to reach me ...
 -      six_eight_squash@yahoo.com
 - ⚡ Fun fact:
--      'six_eight_squash' is a reference to a 6' 8" surfboard with
--      a squared ('squash') tail.  I used to surf.  It was my favorite
--      surf board.  Many good memories surfing at Leo Carillo State Beach.
+-      'six_eight_squash' is a reference to a 6' 8" surfboard with a squared ('squash') tail.  I used to surf.  It was my favorite surf board.  Many good memories surfing at Leo Carillo State Beach.
 
 <!---
 tmacandr/tmacandr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
